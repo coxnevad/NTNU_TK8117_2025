@@ -4,10 +4,10 @@
 1. Introduction (Pawan)
 
 2. Outlier detection -What is and why (Pawan)
-   - outlier ?vs anomaly?
+   - outlier ?vs anomaly? (if necessary)
 3. Outlier detection with PCA, How to help identify outliers? (caroline, )
    - What are the methods
-     multivariate/univariate
+     detection w/ recon. err. and on transf. data (multivariate/univariate)
 4.-Workout examples
      - Into datasets, features ect.(simple examples)
      - Procedures (on multiple features)
